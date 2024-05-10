@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "TCP clients and servers",
+        "description" : "Built barebone servers and clients in C++, and one full functioning webserver. \n",
+        "link" : "https://github.com/mozartrombocks/WEBSERVER-BUILT-WITH-C-"
+    },
+    {
+        "name" : "VisionML:",
+        "description" : "Developed an iOS app which detects objects of materials through the phone camera. \n",
+        "link" : "https://github.com/mozartrombocks/Face-Recognition"
+    },
+    {
+        "name" : "Exercise-Tracker",
+        "description" : "Created a fullstack web application which creates exercises and can be customizable like a notepad. \n", 
+        "link" : "https://github.com/mozartrombocks/Exercise-Tracker"
+    },
+    {
+        "name" : "AWS-Springboot",
+        "description" : "Created a fullstack web application which uploads and downloads images on the app. \n",
+        "link" : "https://github.com/mozartrombocks/fullstack-springboot-aws"
+    },
+    {
+        "name" : "64-bit operating system kernel",
+        "description" : "Wrote a 64-bit operating system kernel from scratch using nasm, qemu, xorriso, grub-common, x86_64_elf-id, \n x86_64_elf-gcc and used qemu-system- x86_64 as an emulator. \n", 
+        "link" : "https://github.com/mozartrombocks/Writing-an-operating-system-kernel-from-scratch"
+    }
+]
